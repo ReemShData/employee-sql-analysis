@@ -27,31 +27,31 @@ and find which department has the best overall performance.
 ## Analysis Steps & Results
 
 ### Step 1: Create Table
-![Step 1](step 1.png)
+![Step 1](step_1.png)
 
 ### Step 2: Insert Data
-![Step 2](step 2.png)
+![Step 2](step_2.png)
 
 ### Step 3: All Employee Data
-![Step 3](step 3.png)
+![Step 3](step_3.png)
 
 ### Step 4: Average Salary by Department
-![Step 4](step 4.png)
+![Step 4](step_4.png)
 
 ### Step 5: Total Employees by Department
-![Step 5](step 5.png)
+![Step 5](step_5.png)
 
 ### Step 6: Employees with Salary above $6,000
-![Step 6](step 6.png)
+![Step 6](step_6.png)
 
 ### Step 7: Top Performers (score >= 90)
-![Step 7](step 7.png)
+![Step 7](step_7.png)
 
 ### Step 8: Average Performance by Department
-![Step 8](step 8.png)
+![Step 8](step_8.png)
 
 ### Step 9: Top 5 Employees by Performance
-![Step 9](step 9.png)
+![Step 9](step_9.png)
 
 ## Files
 - employee_analysis.sql : All SQL queries
